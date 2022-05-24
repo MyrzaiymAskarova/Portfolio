@@ -166,17 +166,22 @@ body {
     padding-left: 20px;
   }
   
-  /* Code example */
-  .code-example {
+  
+  .portfolio {
     width: 100%;
     margin-bottom: 34px;
   }
-  .code-example pre {
-    margin: 0;
-    padding: 0;
-    font-size: 10px;
-    line-height: 14px;
+
+  .portfolio-link__list {
+    font-size: 20px;
+    margin-left: 40px;
+
   }
+
+  .link {
+    text-decoration: none;
+  }
+  
   
   /* Footer */
   .footer {
